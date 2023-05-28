@@ -1,4 +1,5 @@
 import java.util.StringJoiner;
+
 public class JavaStringJoiner {
     public static void main(String[] args) {
         StringJoiner sj = new StringJoiner(",", "{", "}");
